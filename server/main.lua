@@ -1,6 +1,6 @@
 local SafeCodes = {}
-local cashA = 250 				--<<how much minimum you can get from a robbery
-local cashB = 450				--<< how much maximum you can get from a robbery
+local cashA = 50 				--<<how much minimum you can get from a robbery
+local cashB = 150				--<< how much maximum you can get from a robbery
 
 
 Citizen.CreateThread(function()
